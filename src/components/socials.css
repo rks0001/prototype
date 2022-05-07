@@ -1,0 +1,42 @@
+.sticky-social{
+    position:fixed;
+    top:50%;
+    right:-20px;
+    padding:0px;
+    margin:0px;
+  }
+  .social{
+    list-style:none;
+  }
+  .social li{
+    padding:10px 30px;
+ 
+  
+    transition:all 0.8s ease-in-out;
+  }
+  .social li:hover{
+      margin-left:-10px;
+   box-shadow:2px 5px 10px grey;
+  }
+  
+    
+  
+  .fa{
+    color:#fff;
+    transition:all 0.8s ease-in-out;
+  }
+  .med{
+    background-color:transparent;
+  }
+  .twitter{
+    background-color:transparent;
+  }
+  .insta{
+    background-color:transparent;
+  }
+  .dis{
+    background-color:transparent;
+  }
+  .link{
+    background-color:transparent;
+  }
